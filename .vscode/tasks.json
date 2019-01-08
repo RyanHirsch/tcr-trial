@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "auto git",
+      "type": "shell",
+      "script": "./scripts/pull-push.sh",
+      "auto": true
+    }
+  ]
+}

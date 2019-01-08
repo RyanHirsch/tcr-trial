@@ -1,12 +1,6 @@
 {
   "cSpell.words": ["prebuild", "precommit", "respawn"],
   "emeraldwalk.runonsave": {
-    "commands": [
-      {
-        "match": ".*",
-        "isAsync": true,
-        "cmd": "${workspaceRoot}/scripts/tcr.sh"
-      }
-    ]
+    "commands": []
   }
 }

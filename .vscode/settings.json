@@ -14,7 +14,7 @@
     ".lintstagedrc": "json"
   },
   "files.exclude": {
-    "**/.jest": true,
-    "**/dist": true
+    "**/.jest": true
+    // "**/dist": true
   }
 }

@@ -9,6 +9,6 @@ cd "${PROJ_DIR}"
 
 while(true);
 do
-  git pull -- rebase;
+  git pull --rebase;
   git push;
 done;

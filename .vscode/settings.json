@@ -12,5 +12,9 @@
   "files.associations": {
     ".markdownlintrc": "json",
     ".lintstagedrc": "json"
+  },
+  "files.exclude": {
+    "**/.jest": true,
+    "**/dist": true
   }
 }

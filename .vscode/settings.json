@@ -8,5 +8,9 @@
         "cmd": "${workspaceRoot}/scripts/tcr.sh"
       }
     ]
+  },
+  "files.associations": {
+    ".markdownlintrc": "json",
+    ".lintstagedrc": "json"
   }
 }

@@ -4,7 +4,7 @@
     {
       "label": "auto git",
       "type": "shell",
-      "script": "./scripts/pull-push.sh",
+      "command": "./scripts/pull-push.sh",
       "auto": true
     }
   ]
